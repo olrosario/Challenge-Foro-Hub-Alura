@@ -34,7 +34,7 @@ Foro Hub es una aplicación de foro diseñada para facilitar la comunicación y 
 
 1. Clona este repositorio:
    ```sh
-   git clone https://github.com/Olrosario/ForoHub.git
+   https://github.com/olrosario/Challenge-Foro-Hub-Alura.git
 
 3. Abre el proyecto en tu IDE favorito (por ejemplo, IntelliJ IDEA o Eclipse).
 
