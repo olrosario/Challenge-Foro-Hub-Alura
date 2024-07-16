@@ -5,7 +5,7 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost:3306/foro_hub_alura
     username: root
-    password: Leticia15!
+    password: {DB password}
     hikari:
       maximum-pool-size: 10
       minimum-idle: 5
